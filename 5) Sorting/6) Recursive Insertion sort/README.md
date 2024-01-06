@@ -1,5 +1,5 @@
 
-#  Insertion Sort
+#  Recursive insertion Sort
 Problem statement
 You are given an integer array 'arr' of size 'N'.
 
